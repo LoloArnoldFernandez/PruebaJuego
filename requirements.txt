@@ -1,0 +1,7 @@
+Panda3D==1.10.13.post1
+panda3d-gltf==0.15.0
+panda3d-simplepbr==0.10
+Pillow==9.5.0
+pyperclip==1.8.2
+screeninfo==0.8.1
+ursina==5.3.0
